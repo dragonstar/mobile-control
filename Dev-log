@@ -26,14 +26,22 @@ Undertook instructions in [1] - all worked
   - Mapped drives to macbook
   - Installed Geany in macbook (although trouble connecting it to pi)
   - Camera integration - standalone on wifi
-  
-  
------------------
- - To do --------
------------------
  push to github
  pull to dev evn on mac
  setup distriburted push for updates to dev & production
+ 
+ magnetic contact switch 
+ https://thepihut.com/products/adafruit-magnetic-contact-switch-door-sensor?variant=27740417617&currency=GBP&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1uOfNedpkLvQyhTvyA9oSCYs_R6SwYJ8vijZDWIFdinBILWMdptXd4aAljVEALw_wcB
+ setup
+ https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/master/Raspberry_Pi_Sensing_Movement/Raspberry_Pi_Sensing_Movement.py
+ or 
+ https://learn.adafruit.com/adafruits-raspberry-pi-lesson-12-sensing-movement/software
+ 
+ 
+-----------------
+ - To do --------
+-----------------
+ 
  Develop control interface
  Expose IP
  spec breadboard for GPIO testing
