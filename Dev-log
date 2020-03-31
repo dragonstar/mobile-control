@@ -1,1 +1,43 @@
 Development Log
+Implementation log
+
+Using Python with Flask - https://www.fullstackpython.com/flask.html
+SQLite as database layer - http://raspberrywebserver.com/sql-databases/accessing-an-sqlite-database-with-python.html
+** not sure ** Uinsg Pyplate on Raspberry Pi as the CMS - http://raspberrywebserver.com/pyplate/install-pyplate-on-a-raspberry-pi.html
+Manage code using GIT - maybe GITFLOW (We'll see)
+HW - Raspbury Pi 4 Model B (with memory upgrade)
+
+-----------------
+Installed Rasperin
+Works fine - with fully operational desktop env
+Setup SSH access on Pi and remote laptop 
+ref: [1] - https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6
+Using the SSH on laptop in root type or on pi
+git init
+sudo apt-get install python3-flask
+ [already installed]
+mkdir rpiWebServer
+ - for info - a folder /home/pi/Documents/Server is created in this process
+cd rpiWebServer
+mkdir static
+mkdir templates
+Undertook instructions in [1] - all worked
+ - - To server time / date display with CSS
+  - Mapped drives to macbook
+  - Installed Geany in macbook (although trouble connecting it to pi)
+  - Camera integration - standalone on wifi
+  
+  
+-----------------
+ - To do --------
+-----------------
+ push to github
+ pull to dev evn on mac
+ setup distriburted push for updates to dev & production
+ Develop control interface
+ Expose IP
+ spec breadboard for GPIO testing
+ Test control interface
+ Robin to test interface
+ ICD of control assets (Robin)
+ 
