@@ -29,15 +29,20 @@ Undertook instructions in [1] - all worked
  push to github
  pull to dev evn on mac
  setup distriburted push for updates to dev & production
- 
- magnetic contact switch 
- https://thepihut.com/products/adafruit-magnetic-contact-switch-door-sensor?variant=27740417617&currency=GBP&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1uOfNedpkLvQyhTvyA9oSCYs_R6SwYJ8vijZDWIFdinBILWMdptXd4aAljVEALw_wcB
- setup
- https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/master/Raspberry_Pi_Sensing_Movement/Raspberry_Pi_Sensing_Movement.py
- or 
- https://learn.adafruit.com/adafruits-raspberry-pi-lesson-12-sensing-movement/software
- checkout https://github.com/Mjrovai/RPi-Flask-WebServer
- and https://github.com/raspberrypi/documentation/blob/master/usage/gpio/python/README.md
+ Apply 4G and GPS interface
+  - Raspberry pi 3g/4g &lte base hat installed 
+  - https://sixfab.com/product/raspberry-pi-base-hat-3g-4g-lte-minipcie-cards/
+  - Install PCLe Module with antennas - LTE +  GPS
+  - https://sixfab.com/product/quectel-ec25-mini-pcle-4glte-module/
+  - Tested -PASS - standalone internet accss - PASS
+  Configure RBP as an internet access point - using raspAP
+  - https://raspap.com/
+  - https://github.com/billz/raspap-webgui
+  - Test - PASS - using RBP as internet access point for other systems - phone, pc etc.. PASS
+ INSTALL BLINK survellance camera on the RBP network 
+  - followed instructions
+  - PASS - Performance test to 15m PASS
+
  
  
 -----------------
@@ -50,4 +55,25 @@ Undertook instructions in [1] - all worked
  Test control interface
  Robin to test interface
  ICD of control assets (Robin)
+ 
+ -------------------
+ -- sensors
+ -------------------
+  magnetic contact switch 
+ https://thepihut.com/products/adafruit-magnetic-contact-switch-door-sensor?variant=27740417617&currency=GBP&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1uOfNedpkLvQyhTvyA9oSCYs_R6SwYJ8vijZDWIFdinBILWMdptXd4aAljVEALw_wcB
+ setup
+ https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/master/Raspberry_Pi_Sensing_Movement/Raspberry_Pi_Sensing_Movement.py
+ or 
+ https://learn.adafruit.com/adafruits-raspberry-pi-lesson-12-sensing-movement/software
+ checkout https://github.com/Mjrovai/RPi-Flask-WebServer
+ and https://github.com/raspberrypi/documentation/blob/master/usage/gpio/python/README.md
+ 
+ -------------------
+ --- research 
+ -------------------
+ 
+ interesting projects to use
+ NMEA 0183 protocol reader - https://github.com/Knio/pynmea2
+ General intel for networking - https://bitbucket.org/R_P_Ryan/enginemonitor/wiki/Networking_EngineMonitor
+ open charts - https://forums.ybw.com/index.php?threads/how-to-use-a-raspberry-pi-for-nmea-over-wifi.447158/
  
