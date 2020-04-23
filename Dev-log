@@ -49,6 +49,7 @@ Undertook instructions in [1] - all worked
  - To do --------
 -----------------
  
+ Order 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
  Develop control interface
  Expose IP
  spec breadboard for GPIO testing
