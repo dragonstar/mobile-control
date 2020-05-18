@@ -47,6 +47,15 @@ Undertook instructions in [1] - all worked
  Tested GPS
   - inside so no signal
   - run python Programming/GPStest.py (not on python 3)
+  Turn on GPS data on USB1
+   - use minicom 
+   minicom -s
+   setup serial port - USB2
+   Hardware flow control - No
+   Exit
+   AT -> ok
+   AT+QGPS=1   -> will turn on NMEA gps ON USB1
+   
   
  
  
