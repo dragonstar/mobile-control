@@ -58,8 +58,10 @@ Undertook instructions in [1] - all worked
  
    see https://sixfab.com/gps-tracker-with-3g-4glte-shield/
    Order 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/   
-   - arrived
- 
+ 22 may
+ - PSU arrived
+  - PIR integrated and tested through code and led PASSED
+  - mag sensor tested PASSED
  
  
 -----------------
