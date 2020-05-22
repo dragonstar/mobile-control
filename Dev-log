@@ -55,10 +55,10 @@ Undertook instructions in [1] - all worked
    Exit
    AT -> ok
    AT+QGPS=1   -> will turn on NMEA gps ON USB1
-   
+ 
    see https://sixfab.com/gps-tracker-with-3g-4glte-shield/
-   
-  
+   Order 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/   
+   - arrived
  
  
  
@@ -66,12 +66,14 @@ Undertook instructions in [1] - all worked
  - To do --------
 -----------------
  
- Order 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
+ Integrate & test 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
  Develop control interface
  Expose IP
  spec breadboard for GPIO testing
  Test control interface
  Robin to test interface
+ 12v RELAYs for high power alarm - use
+   https://thepihut.com/products/8-relay-card-for-raspberry-pi
  ICD of control assets (Robin)
  
  -------------------
