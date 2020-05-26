@@ -62,14 +62,19 @@ Undertook instructions in [1] - all worked
  - PSU arrived
   - PIR integrated and tested through code and led PASSED
   - mag sensor tested PASSED
- 
+Integrated and tested with Twitter 
  
 -----------------
  - To do --------
 -----------------
  
+ Config parser - start integrating this early doors
  Integrate & test 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
  Develop control interface
+  - arm alarm
+ Tracker - use sockets & nmea parser
+ send forcast by twitter - based on GPS location
+ sent inshore forcast - based n GPS location
  Expose IP
  spec breadboard for GPIO testing
  Test control interface
