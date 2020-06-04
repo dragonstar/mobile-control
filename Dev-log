@@ -63,7 +63,11 @@ Undertook instructions in [1] - all worked
   - PIR integrated and tested through code and led PASSED
   - mag sensor tested PASSED
 Integrated and tested with Twitter 
- 
+POWER HAT
+Integrate & test 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
+https://docs.sixfab.com/docs/raspberry-pi-power-management-ups-hat-technical-details
+
+
 -----------------
  - To do --------
 -----------------
