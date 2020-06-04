@@ -66,6 +66,8 @@ Integrated and tested with Twitter
 POWER HAT
 Integrate & test 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/
 https://docs.sixfab.com/docs/raspberry-pi-power-management-ups-hat-technical-details
+GPIO 2 & 2 ARE TAKEN BY THE POPWER HAT - SO do not use these
+5V & GND are re-inforced by the hat.
 
 
 -----------------
