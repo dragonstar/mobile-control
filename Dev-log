@@ -55,6 +55,9 @@ Undertook instructions in [1] - all worked
    Exit
    AT -> ok
    AT+QGPS=1   -> will turn on NMEA gps ON USB1
+   AT+QGPSEND  -> WILL turn off
+   For full details see
+   http://www.embeddedpi.com/documentation/3g-4g-modems/quecetel-modem-gps-setup
  
    see https://sixfab.com/gps-tracker-with-3g-4glte-shield/
    Order 12V psu - https://sixfab.com/product/raspberry-pi-power-management-ups-hat/   
