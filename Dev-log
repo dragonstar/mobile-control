@@ -6,6 +6,7 @@ SQLite as database layer - http://raspberrywebserver.com/sql-databases/accessing
 ** not sure ** Uinsg Pyplate on Raspberry Pi as the CMS - http://raspberrywebserver.com/pyplate/install-pyplate-on-a-raspberry-pi.html
 Manage code using GIT - maybe GITFLOW (We'll see)
 HW - Raspbury Pi 4 Model B (with memory upgrade)
+Ended up using Python for system functions & Node-Red for all the distributed UI/Control and tracking
 
 -----------------
 Installed Rasperin
@@ -79,8 +80,9 @@ Manage the hat via power.sixfab.com
 -----------------
  might have to move to 
  https://www.aa.net.uk/voice-and-mobile/data-sims/
- as data providor
+ as data providor - allows for static ip and ports.
  Look at VPNs
+ Might need to setup server.... :|
  
  
  
