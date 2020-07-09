@@ -122,6 +122,10 @@ Manage the hat via power.sixfab.com
  --- research 
  -------------------
  
+ ** security - consider implementing passportjs
+ https://nodered.org/docs/user-guide/runtime/securing-node-red
+ **
+ 
  interesting projects to use
  NMEA 0183 protocol reader - https://github.com/Knio/pynmea2
  General intel for networking - https://bitbucket.org/R_P_Ryan/enginemonitor/wiki/Networking_EngineMonitor
