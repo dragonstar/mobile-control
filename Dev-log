@@ -74,6 +74,54 @@ GPIO 2 & 2 ARE TAKEN BY THE POPWER HAT - SO do not use these
 5V & GND are re-inforced by the hat.
 Manage the hat via power.sixfab.com
 
+12v control by 
+https://github.com/SequentMicrosystems/8relay-rpi
+https://github.com/SequentMicrosystems/8relay-rpi
+
+Plugs are:-
+
+https://www.digipart.com/part/WJ15EDGK-3.5-6P
+11:12 PM
+https://www.digipart.com/part/WJ15EDGK-3.5-6P - thumbnail
+WJ15EDGK-3.5-6P Price & Stock | DigiPart
+WJ15EDGK-3.5-6P Price, WJ15EDGK-3.5-6P Stock, Buy WJ15EDGK-3.5-6P from electronic components distributors. Instant result for WJ15EDGK-3.5-6P
+
+Make sure you get 3.81mm, not 3.5mm
+11:13 PM
+https://www.digipart.com/part/WJ15EDGK-3.81-4P
+11:13 PM
+https://www.digipart.com/part/WJ15EDGK-3.81-4P - thumbnail
+WJ15EDGK-3.81-4P Price & Stock | DigiPart
+WJ15EDGK-3.81-4P Price, WJ15EDGK-3.
+Search anywhere for pluggable connectors 3.81mm
+11:11 PM
+Or WJ15EDGK-3.81-6P, WJ15EDGK-3.81-4P
+11:11 PM
+https://www.digipart.com/part/WJ15EDGK-3.5-8P
+11:12 PM
+https://www.digipart.com/part/WJ15EDGK-3.5-8P - thumbnail
+WJ15EDGK-3.5-8P Price & Stock | DigiPart
+WJ15EDGK-3.5-8P Price, WJ15EDGK-3.5-8P Stock, Buy WJ15EDGK-3.5-8P from electronic components distributors. Instant result for WJ15EDGK-3.5-8P
+
+Your STAR! Thank you so much
+11:12 PM
+Sequent Microsystems
+https://www.digipart.com/part/WJ15EDGK-3.5-6P
+11:12 PM
+https://www.digipart.com/part/WJ15EDGK-3.5-6P - thumbnail
+WJ15EDGK-3.5-6P Price & Stock | DigiPart
+WJ15EDGK-3.5-6P Price, WJ15EDGK-3.5-6P Stock, Buy WJ15EDGK-3.5-6P from electronic components distributors. Instant result for WJ15EDGK-3.5-6P
+
+Make sure you get 3.81mm, not 3.5mm
+11:13 PM
+https://www.digipart.com/part/WJ15EDGK-3.81-4P
+11:13 PM
+https://www.digipart.com/part/WJ15EDGK-3.81-4P - thumbnail
+WJ15EDGK-3.81-4P Price & Stock | DigiPart
+WJ15EDGK-3.81-4P Price, WJ15EDGK-3.81-4P Stock, Buy WJ15EDGK-3.81-4P from electronic components distributors. Instant result for WJ15EDGK-3.81-4P
+11:16 PM
+Sequent Microsystems
+
 
 -----------------
  - To do --------
@@ -83,7 +131,7 @@ Manage the hat via power.sixfab.com
  as data providor - allows for static ip and ports.
  Look at VPNs
  Might need to setup server.... :|
- 
+  - no - way too expensive 
  
  
  Config parser - start integrating this early doors
