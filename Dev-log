@@ -35,6 +35,8 @@ Undertook instructions in [1] - all worked
   - https://sixfab.com/product/raspberry-pi-base-hat-3g-4g-lte-minipcie-cards/
   - Install PCLe Module with antennas - LTE +  GPS
   - https://sixfab.com/product/quectel-ec25-mini-pcle-4glte-module/
+  use this to re-install if your sd crashes
+  - https://docs.sixfab.com/page/internet-connection-with-quectel-ec25-by-using-ecm-mode - 
   - Tested -PASS - standalone internet accss - PASS
   Configure RBP as an internet access point - using raspAP
   - https://raspap.com/
